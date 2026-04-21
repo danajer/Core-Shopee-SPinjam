@@ -46,4 +46,4 @@ helpItems.forEach(item => {
     });
 });
 
-console.log("✅ CS Core Shopee SPinjam | WA: +62 821-9456-5774 | No-Index aktif | Keyword siap");
+console.log("✅ CS Core Shopee SPinjam | WA: +62 821-9456-5774 | Siap terindeks Google");
